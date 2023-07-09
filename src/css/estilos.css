@@ -55,6 +55,7 @@ body::before{
 }
 
 .lista-de-personagens .personagem img{
+    border-bottom: 4px solid #47f4ff;
     width: 100%;
     height: 100%;
 }
